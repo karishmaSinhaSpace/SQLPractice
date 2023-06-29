@@ -1,1 +1,1 @@
-# SQLPractice for an Udemy course
+# SQLPractice from an Udemy course & HackerRank Practice Problems
